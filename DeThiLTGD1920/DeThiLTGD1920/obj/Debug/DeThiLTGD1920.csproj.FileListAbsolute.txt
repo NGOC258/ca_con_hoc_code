@@ -1,0 +1,10 @@
+D:\DeThiLTGD1920\DeThiLTGD1920\bin\Debug\DeThiLTGD1920.exe.config
+D:\DeThiLTGD1920\DeThiLTGD1920\bin\Debug\DeThiLTGD1920.exe
+D:\DeThiLTGD1920\DeThiLTGD1920\bin\Debug\DeThiLTGD1920.pdb
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.csprojResolveAssemblyReference.cache
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.FrmDelay.resources
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.FrmMain.resources
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.Properties.Resources.resources
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.csproj.GenerateResource.Cache
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.exe
+D:\DeThiLTGD1920\DeThiLTGD1920\obj\Debug\DeThiLTGD1920.pdb
