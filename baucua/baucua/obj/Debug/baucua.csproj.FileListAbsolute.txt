@@ -1,0 +1,11 @@
+D:\LTGD\baucua\baucua\bin\Debug\baucua.exe.config
+D:\LTGD\baucua\baucua\bin\Debug\baucua.exe
+D:\LTGD\baucua\baucua\bin\Debug\baucua.pdb
+D:\LTGD\baucua\baucua\obj\Debug\baucua.csproj.AssemblyReference.cache
+D:\LTGD\baucua\baucua\obj\Debug\baucua.Properties.Resources.resources
+D:\LTGD\baucua\baucua\obj\Debug\baucua.csproj.GenerateResource.cache
+D:\LTGD\baucua\baucua\obj\Debug\baucua.csproj.CoreCompileInputs.cache
+D:\LTGD\baucua\baucua\obj\Debug\baucua.exe
+D:\LTGD\baucua\baucua\obj\Debug\baucua.pdb
+D:\LTGD\baucua\baucua\obj\Debug\baucua.FrmDelay.resources
+D:\LTGD\baucua\baucua\obj\Debug\baucua.FrmMain.resources
